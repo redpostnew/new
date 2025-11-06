@@ -6,7 +6,7 @@
 - 결제는 고객이 1688 실제 판매자 페이지로 이동해서 진행
 ### 결제 방식
 - https://aibuy.1688.com/landingpage?bizType=purchasingAgent&customerId=redpost
-알리페이(Alipay, 支付宝) 사용이 기본
+- 알리페이(Alipay, 支付宝) 사용이 기본
 - 중국 내 은행계좌나 카드필요 필요.
 
 ### 배송대행 절차
