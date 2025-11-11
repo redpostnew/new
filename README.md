@@ -1,1 +1,1 @@
-![https://img.freepik.com/free-photo/dry-tree-moonlit-night_1048-2412.jpg?semt=ais_hybrid&w=740&q=80](https://flexible.img.hani.co.kr/flexible/normal/945/718/imgdb/original/2025/0901/20250901503485.jpg)
+![https://img.freepik.com/free-photo/dry-tree-moonlit-night_1048-2412.jpg?semt=ais_hybrid&w=330](https://flexible.img.hani.co.kr/flexible/normal/945/718/imgdb/original/2025/0901/20250901503485.jpg)
