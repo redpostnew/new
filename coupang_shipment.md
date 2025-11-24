@@ -18,6 +18,7 @@
 ## 3.  데이터를 피벗 및 피벗 차트로 활용
    - 데이터는 PDF 품질이 제각각으로 일정하게 엑셀로 들어오지 않음
    - 예)
+   - <img src="https://i.ibb.co/X1w9v0v/Snipaste-2025-11-24-16-23-19.png" alt="Snipaste-2025-11-24-16-23-19" border="0">
    - 데이터 항목
        - 쉽먼트번호
        - 쉽먼트 바코드
@@ -31,6 +32,8 @@
        - 옵션
        - 수량
    - SKU ID를 조회하여 상품명과 옵션을 가져옴
+   - <img src="https://i.ibb.co/X1w9v0v/Snipaste-2025-11-24-16-23-19.png" alt="Snipaste-2025-11-24-16-23-19" border="0">
    - 옵션은 색상+사이즈로 가져오는데 사방넷은 1개만 필요하여 [색상+사이즈] 조합으로 재구성
      - <img src="https://i.ibb.co/4cVKffR/Snipaste-2025-11-24-14-50-58.png" alt="Snipaste-2025-11-24-14-50-58" border="0">
+     - <img src="https://i.ibb.co/dJKYjTrN/Snipaste-2025-11-24-16-22-26.png" alt="Snipaste-2025-11-24-16-22-26" border="0">
    - 엑셀에서 XLOOKUP으로 재분류 과정을 거침
