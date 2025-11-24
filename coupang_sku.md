@@ -1,4 +1,4 @@
-# 쿠팡 발주SKU리스트 (자동)수집 및 활용 설명
+# 발주SKU리스트 자동화 및 업무설명
 
 ## 1. 쿠팡 써플라이 허브 접속
    - https://supplier.coupang.com
@@ -47,6 +47,3 @@
    - 세부옵션 -> 중분류(상품별) 재분류는 쿠팡상품DB를 활용하여 재분류함
    - <img src="https://i.ibb.co/Y4pYKpZD/Snipaste-2025-11-24-14-44-57.png" alt="Snipaste-2025-11-24-14-44-57" border="0">
    - 엑셀에서 XLOOKUP으로 재분류 과정을 거침
-
-
-
