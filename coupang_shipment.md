@@ -9,7 +9,7 @@
    - Home>물류>쉽먼트
    - <img src="https://i.ibb.co/DfPdkJBs/Snipaste-2025-11-24-15-53-58.png" alt="Snipaste-2025-11-24-15-53-58" border="0">
    - 쉽먼트>택배 쉽먼트에서 [내역서]를 클릭하면 PDF 자동 다운로드
-     <img src="https://i.ibb.co/0RDcbrtk/Snipaste-2025-11-24-09-37-14.png" alt="Snipaste-2025-11-24-09-37-14" border="0">
+   - <img src="https://i.ibb.co/0RDcbrtk/Snipaste-2025-11-24-09-37-14.png" alt="Snipaste-2025-11-24-09-37-14" border="0">
    - PDF는 예)shipment_ManiFest_document(41301642)_2025_11_20.pdf 제공
    - 로그인 및 파일 다운로드 자동화는
        - 2차 인증을 하고 있어 사실상 어려움
@@ -37,6 +37,7 @@
        - 옵션
        - 수량
    - SKU ID를 조회하여 상품명과 옵션을 가져옴
+   - 엑셀로 데이터 입력 및 정제가 필요함
    - 엑셀에서 상품DB를 XLOOKUP으로 가져오는 과정을 거침
    - <img src="https://i.ibb.co/X1w9v0v/Snipaste-2025-11-24-16-23-19.png" alt="Snipaste-2025-11-24-16-23-19" border="0">
    - 옵션은 색상+사이즈로 가져오는데 사방넷은 1개만 필요하여 [색상+사이즈] 조합으로 재구성
