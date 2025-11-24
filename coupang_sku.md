@@ -3,8 +3,12 @@
 ## 1. 쿠팡 써플라이 허브 접속
    - https://supplier.coupang.com
    - Home>물류>발주SKU 리스트
+     - <img src="https://i.ibb.co/nsBqZBx8/Snipaste-2025-11-24-14-26-11.png" alt="Snipaste-2025-11-24-14-26-11" border="0">
    - 기간검색은 기본 1개월 세팅
+     - <img src="https://i.ibb.co/tMSBfYXD/Snipaste-2025-11-24-14-26-24.png" alt="Snipaste-2025-11-24-14-26-24" border="0">
    - 오른쪽 상단에 [상품목록 다운로드]- [전체 다운로드]로 엑셀 다운로드
+     - <img src="https://i.ibb.co/j9sz2rqL/Snipaste-2025-11-24-14-26-50.png" alt="Snipaste-2025-11-24-14-26-50" border="0">
+     - <img src="https://i.ibb.co/hv9kqLR/Snipaste-2025-11-24-14-26-40.png" alt="Snipaste-2025-11-24-14-26-40" border="0">
    - 엑셀은 예) PO_SKU_LIST_20251124140602.csv CSV로 제공
    - 로그인 및 파일 다운로드 자동화는
        - 2차 인증을 하고 있어 사실상 어려움
@@ -41,3 +45,7 @@
        - Xdock
    - 세부옵션 -> 중분류(상품별) 재분류는 쿠팡상품DB를 활용하여 재분류함
    - 엑셀에서 XLOOKUP으로 재분류 과정을 거침
+
+
+
+
