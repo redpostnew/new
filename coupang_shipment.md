@@ -3,9 +3,9 @@
 ## 1. 쿠팡 써플라이 허브 접속
    - https://supplier.coupang.com
    - Home>물류>쉽먼트
-     - <img src="https://i.ibb.co/39g3wFKT/Snipaste-2025-11-24-16-17-17.png" alt="Snipaste-2025-11-24-16-17-17" border="0">
-   - 쉽먼트>택배 쉽먼트에서 [내역서]를 클릭하면 PDF 자동 다운로드
      - <img src="https://i.ibb.co/DfPdkJBs/Snipaste-2025-11-24-15-53-58.png" alt="Snipaste-2025-11-24-15-53-58" border="0">
+   - 쉽먼트>택배 쉽먼트에서 [내역서]를 클릭하면 PDF 자동 다운로드
+     - <img src="https://i.ibb.co/39g3wFKT/Snipaste-2025-11-24-16-17-17.png" alt="Snipaste-2025-11-24-16-17-17" border="0">
    - PDFS는 예)shipment_ManiFest_document(41301642)_2025_11_20.pdf 제공
    - 로그인 및 파일 다운로드 자동화는
        - 2차 인증을 하고 있어 사실상 어려움
