@@ -83,69 +83,7 @@
 
 ## 3. NAS 폴더 구조 예시
 
-/NAS_Root
-│
-├─ Korea
-│ ├─ Logistics
-│ │ ├─ Invoices
-│ │ ├─ Shipment_Reports
-│ │ └─ Inventory
-│ ├─ Finance
-│ │ ├─ Payroll
-│ │ └─ Tax
-│ └─ Admin
-│ ├─ HR
-│ └─ Meeting_Notes
-│
-├─ China
-│ ├─ Logistics
-│ │ ├─ Invoices
-│ │ ├─ Shipment_Reports
-│ │ └─ Inventory
-│ ├─ Finance
-│ │ ├─ Payroll
-│ │ └─ Tax
-│ └─ Admin
-│ ├─ HR
-│ └─ Meeting_Notes
-│
-├─ Shared
-│ ├─ SOPs
-│ ├─ Templates
-│ └─ Projects
-│ ├─ Project_A
-│ │ ├─ Reports
-│ │ ├─ Planning
-│ │ └─ Budget
-│ └─ Project_B
-│ ├─ Reports
-│ ├─ Planning
-│ └─ Budget
-│
-└─ Archive
-├─ Korea
-└─ China
 
-
----
-
-## 4. 사용 예시
-
-- **한국 사무실 직원**: `Korea/Logistics/Invoices` → 송장 작성 후 업로드  
-- **중국 사무실 직원**: `China/Logistics/Inventory` → 재고 입력  
-- **한국·중국 공동 프로젝트**: `Shared/Projects/Project_A` → 보고서·계획·예산 동시 관리  
-- **표준 매뉴얼 참고**: `Shared/SOPs` → 모든 팀 읽기 전용
-
----
-
-## 5. 문서/파일 규칙 예시
-
-- **파일명 규칙**: `YYYYMMDD_문서명_버전`
-  - 예: `20251119_Invoice_v01.xlsx`
-- **버전 관리**
-  - `_v01`, `_v02` … 순차 증가
-- **중요 파일**
-  - 공용 템플릿, SOP 등은 `Shared/Templates` 폴더에만 저장
 
 ---
 
@@ -207,6 +145,7 @@ NAS는 **네트워크 결합 스토리지**의 약자로, 쉽게 말해 **네트
 * **사무실 간 동기화:** 한국 NAS와 중국 NAS 간에 **정기적인 파일 동기화**를 수행하여 양쪽 사무실이 최신 정보를 공유하도록 합니다 (미러링).
 
 * **클라우드 서비스 통합:** 구글 드라이브, 드롭박스 등 **외부 클라우드 서비스와 연동**하여 백업 또는 동기화 목적으로 활용할 수 있습니다.
+
 
 
 
