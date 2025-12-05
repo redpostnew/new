@@ -1,4 +1,13 @@
 # 레드포스트 NAS
+## 탐색기에 NAS 폴더 넣기 -1
+### raidrive 설치
+1. https://www.raidrive.com/
+2. 컴퓨터 OS에 맞는 버전을 설치
+3. NAS 연결 방법
+<img src="https://i.ibb.co/ZzXtPYJG/Snipaste-2025-12-05-11-26-30.png" alt="Snipaste-2025-12-05-11-26-30" border="0">
+<img src="https://i.ibb.co/JR8xSf6v/Snipaste-2025-12-05-11-26-50.png" alt="Snipaste-2025-12-05-11-26-50" border="0">
+<img src="https://i.ibb.co/SX2TcCbP/Snipaste-2025-12-05-11-27-30.png" alt="Snipaste-2025-12-05-11-27-30" border="0">
+
 ## 처음 접속하실 때에는 비밀번호를 변경해야 합니다
 - ID는 이름
 - 초기 비밀번호는 ****
@@ -146,6 +155,7 @@ NAS는 **네트워크 결합 스토리지**의 약자로, 쉽게 말해 **네트
 * **사무실 간 동기화:** 한국 NAS와 중국 NAS 간에 **정기적인 파일 동기화**를 수행하여 양쪽 사무실이 최신 정보를 공유하도록 합니다 (미러링).
 
 * **클라우드 서비스 통합:** 구글 드라이브, 드롭박스 등 **외부 클라우드 서비스와 연동**하여 백업 또는 동기화 목적으로 활용할 수 있습니다.
+
 
 
 
