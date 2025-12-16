@@ -42,3 +42,4 @@
 - 로그인 후 마이페이지>기본정보|사업자정보에서 확인
 - 로그인 후 마이페이지>기본정보|사업자정보가 없을 경우 [사업자정보] 등록 팝업화면 노출
 - <img src="https://i.ibb.co/F4z50F4m/Snipaste-2025-12-16-10-29-21.png" alt="Snipaste 2025 12 16 10 29 21" border="0">
+- <img src="https://i.ibb.co/WWTRCM9Z/Snipaste-2025-12-16-10-43-06.png" alt="Snipaste-2025-12-16-10-43-06" border="0">
