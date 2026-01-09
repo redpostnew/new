@@ -1,6 +1,8 @@
 # New 레포 인트로
 
 [공유파일 확인하기](https://bit.ly/4513Ujz)
+- 디자인 참조
+   https://d.cafe24.com/preview?productCode=PTHD850398&frame=P
 
 ---
 
