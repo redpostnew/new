@@ -11,9 +11,9 @@
 <img src="https://i.ibb.co/SX2TcCbP/Snipaste-2025-12-05-11-27-30.png" alt="Snipaste-2025-12-05-11-27-30" border="0">
 
 ## 탐색기에 NAS 폴더 넣기 -2
-<img src="https://i.ibb.co/Dfr00XgL/Snipaste-2026-01-13-13-23-05.png" alt="Snipaste 2026 01 13 13 23 05" border="0">
-<img src="https://i.ibb.co/bRWCmBKG/Snipaste-2026-01-13-13-23-20.png" alt="Snipaste 2026 01 13 13 23 20" border="0">
-<img src="https://i.ibb.co/SXjDTtzJ/Snipaste-2026-01-13-13-23-52.png" alt="Snipaste 2026 01 13 13 23 52" border="0">
+1. <img src="https://i.ibb.co/C5w6GSDV/2026-01-13-13-34-40.png" alt="2026 01 13 13 34 40" border="0">
+2. <img src="https://i.ibb.co/bRWCmBKG/Snipaste-2026-01-13-13-23-20.png" alt="Snipaste 2026 01 13 13 23 20" border="0">
+3. <img src="https://i.ibb.co/SXjDTtzJ/Snipaste-2026-01-13-13-23-52.png" alt="Snipaste 2026 01 13 13 23 52" border="0">
 
 1. 추가할 주소: https://redpost.myds.me:5006
 2. 로그인할 때 다시 연결, 다른 자격증명을 사용하여 연결 모두 체크
@@ -61,7 +61,7 @@
 | 21 | 王妍妍 | 1069434440@qq.com      | 仓库职员      | 중국  | 창고팀           |
 | 22 | 姜静  | j18263119698@qq.com    | 仓库职员      | 중국  | 창고팀           |
 | 23 | 邱强  | 1038397692@qq.com      | 仓库职员      | 중국  | 창고팀           |
-| 24 | 최승북  | 15698201588@163.com     | 중국 사무실       | 중국  | 중국사무팀         |
+| 24 | 최승복  | 15698201588@163.com     | 중국 사무실       | 중국  | 중국사무팀         |
 
 # NAS 운영 가이드 (물류회사용)
 
@@ -166,7 +166,6 @@ NAS는 **네트워크 결합 스토리지**의 약자로, 쉽게 말해 **네트
 * **사무실 간 동기화:** 한국 NAS와 중국 NAS 간에 **정기적인 파일 동기화**를 수행하여 양쪽 사무실이 최신 정보를 공유하도록 합니다 (미러링).
 
 * **클라우드 서비스 통합:** 구글 드라이브, 드롭박스 등 **외부 클라우드 서비스와 연동**하여 백업 또는 동기화 목적으로 활용할 수 있습니다.
-
 
 
 
