@@ -1,4 +1,34 @@
 # 레드포스트 NAS
+## NAS(Network Attached Storage)
+
+**NAS**는 네트워크에 연결된 대용량 저장 장치로, 인터넷을 통해 언제 어디서나 접속 가능한 **개인용 클라우드 서버**임.
+
+---
+
+### 1. 주요 특징 및 기능
+* **원격 접속:** 장소에 구애받지 않고 스마트폰, 노트북 등으로 파일 접근 및 편집 가능함.
+* **대용량 확충:** 다수의 HDD 슬롯을 통해 테라바이트(TB) 단위의 저장 공간 확보 용이함.
+* **자동 백업:** 모바일 사진 및 PC 데이터를 설정된 주기에 따라 자동 저장함.
+* **데이터 공유:** 링크를 통한 대용량 파일 전송 및 팀 단위 공동 작업 환경 제공함.
+* **스트리밍:** 저장된 미디어(영화, 음악)를 스마트 TV나 태블릿에서 실시간 재생함.
+
+### 2. 서비스 비교 (클라우드 vs NAS)
+
+| 구분 | 퍼블릭 클라우드 (구글, iCloud) | 개인용 NAS |
+| :--- | :--- | :--- |
+| **비용** | 월간/연간 구독료 지속 발생 | 초기 장비 구매 비용 발생 (유지비 저렴) |
+| **용량** | 추가 용량 비례 비용 상승 | 하드디스크 추가로 자유롭게 확장 가능함 |
+| **보안** | 업체 서버에 의존함 | 사용자가 직접 물리적 보관 및 관리함 |
+| **관리** | 업체에서 일괄 관리함 | 초기 설정 및 유지보수 관리 필요함 |
+
+### 3. 주요 활용 대상
+* 스마트폰 저장 공간 부족으로 실시간 사진 백업이 필요한 경우
+* 클라우드 서비스의 고정 지출 비용을 절감하고자 하는 경우
+* 대용량 미디어 라이브러리를 구축하고 스트리밍하려는 경우
+* 업무용 데이터의 보안 유지 및 팀 간 빠른 파일 공유가 필요한 경우
+
+------
+
 ## 탐색기에 NAS 폴더 넣기 -1
 ### raidrive 설치
 1. https://www.raidrive.com/
@@ -70,19 +100,38 @@
 | 23 | 邱强  | 1038397692@qq.com      | 仓库职员      | 중국  | 창고팀           |
 | 24 | 최승복  | 15698201588@163.com     | 중국 사무실       | 중국  | 중국사무팀         |
 
+# 자료설명
+
+
+
+<img src="https://i.ibb.co/ccT8d0gT/Redpost-NAS-Manual-01.png" alt="Redpost-NAS-Manual-01" border="0">
+<img src="https://i.ibb.co/Q7TjGvNy/Redpost-NAS-Manual-02.png" alt="Redpost-NAS-Manual-02" border="0">
+<img src="https://i.ibb.co/QjP9qbg0/Redpost-NAS-Manual-03.png" alt="Redpost-NAS-Manual-03" border="0">
+<img src="https://i.ibb.co/XfN0QYgq/Redpost-NAS-Manual-04.png" alt="Redpost-NAS-Manual-04" border="0">
+<img src="https://i.ibb.co/LXrwx7Hk/Redpost-NAS-Manual-05.png" alt="Redpost-NAS-Manual-05" border="0">
+<img src="https://i.ibb.co/8n8Bv4vV/Redpost-NAS-Manual-06.png" alt="Redpost-NAS-Manual-06" border="0">
+<img src="https://i.ibb.co/zY9xqcQ/Redpost-NAS-Manual-07.png" alt="Redpost-NAS-Manual-07" border="0">
+<img src="https://i.ibb.co/Nn60dbsh/Redpost-NAS-Manual-08.png" alt="Redpost-NAS-Manual-08" border="0">
+<img src="https://i.ibb.co/zhGdYLD3/Redpost-NAS-Manual-09.png" 
+alt="Redpost-NAS-Manual-09" border="0">
+<img src="https://i.ibb.co/9k4Py8Kt/Redpost-NAS-Manual-10.png" alt="Redpost-NAS-Manual-10" border="0">
+<img src="https://i.ibb.co/B2Nmc6Lw/Redpost-NAS-Manual-11.png" alt="Redpost-NAS-Manual-11" border="0">
+<img src="https://i.ibb.co/B53mK5fT/Redpost-NAS-Manual-12.png" alt="Redpost-NAS-Manual-12" border="0">
+<img src="https://i.ibb.co/jvFkqL9g/Redpost-NAS-Manual-13.png" alt="Redpost-NAS-Manual-13" border="0">
+<img src="https://i.ibb.co/n8B3fKv5/Redpost-NAS-Manual-14.png" alt="Redpost-NAS-Manual-14" border="0">
+<img src="https://i.ibb.co/67BhMxsP/Redpost-NAS-Manual-15.png" alt="Redpost-NAS-Manual-15" border="0">
+
+
+
 # NAS 운영 가이드 (물류회사용)
 
 ## 1. NAS 사용 규칙
 
 1. **사용 권한 분리**
-   - `Read/Write` 권한: 팀별로 지정 (예: 물류팀, 회계팀, 디자인팀)
-   - `Read Only` 권한: 참고용 자료나 이전 문서
+   - 한국
+   - 중국
 
-2. **폴더 네이밍 규칙**
-   - **회사/팀/년도-월-일_프로젝트명/버전** 형식 추천
-   - 예: `Korea/Logistics/2025-11-19_Invoice_v01`
-
-3. **동기화 규칙**
+2. **동기화 규칙**
    - 한국 NAS ↔ 중국 NAS 주 1~2회 정기 동기화
    - 급한 경우 실시간 동기화 가능, 충돌 시 **버전 관리** 준수
 
@@ -111,20 +160,13 @@
 
 ## 3. NAS 폴더 구조 예시
 
-
-
----
-
 > ⚠️ 주의사항
 > - NAS에서 직접 폴더 이동/삭제 시 **권한을 반드시 확인**
 > - 동시 편집 파일은 버전 충돌 방지 위해 체크인/체크아웃 시스템 활용
 > - 주기적으로 백업 확인
 
-## 💾 NAS (Network Attached Storage) 주요 기능 요약
-
-NAS는 **네트워크 결합 스토리지**의 약자로, 쉽게 말해 **네트워크에 연결된 개인용 또는 회사용 클라우드 서버**입니다. NAS의 핵심 기능을 물류회사 환경에 맞게 요약해 드립니다.
-
 ---
+## NAS 상세
 
 ### 1. 중앙 집중식 파일 공유 및 관리
 
@@ -140,18 +182,8 @@ NAS는 **네트워크 결합 스토리지**의 약자로, 쉽게 말해 **네트
 
 데이터의 보안과 사용자별 접근 통제를 철저하게 관리합니다.
 
-* **사용자/그룹 권한 설정:** 물류팀, 회계팀 등 **팀별 또는 사용자별로 접근 권한**($R/W$ 또는 $R$)을 다르게 설정하여 중요한 데이터의 무단 접근 및 수정을 방지합니다.
+* **사용자/그룹 권한 설정:** 한국, 중국 등 **팀별 또는 사용자별로 접근 권한**($R/W$ 또는 $R$)을 다르게 설정하여 중요한 데이터의 무단 접근 및 수정을 방지합니다.
 * **보안 연결:** 외부에서 접속 시 **암호화된 연결($VPN$ 또는 $HTTPS$)**을 사용하여 데이터를 안전하게 보호합니다.
-
----
-
-### 3. CCTV 및 IP 카메라 저장 (영상 감시)
-
-물류 창고, 사무실 등 주요 지점에 설치된 **IP 카메라의 영상 데이터를 안정적으로 저장**합니다.
-
-* **실시간 녹화:** 연결된 IP 카메라의 영상을 24시간 끊김 없이 **고화질로 저장**합니다.
-* **영상 검색 및 백업:** 녹화된 영상을 **날짜 및 시간별로 쉽게 검색**하고, 필요에 따라 장기 백업할 수 있습니다.
-* **NVR 역할 대체:** 별도의 영상 녹화 장치(NVR/DVR) 없이 NAS 자체가 중앙 감시 시스템의 역할을 수행합니다.
 
 ---
 
@@ -173,10 +205,3 @@ NAS는 **네트워크 결합 스토리지**의 약자로, 쉽게 말해 **네트
 * **사무실 간 동기화:** 한국 NAS와 중국 NAS 간에 **정기적인 파일 동기화**를 수행하여 양쪽 사무실이 최신 정보를 공유하도록 합니다 (미러링).
 
 * **클라우드 서비스 통합:** 구글 드라이브, 드롭박스 등 **외부 클라우드 서비스와 연동**하여 백업 또는 동기화 목적으로 활용할 수 있습니다.
-
-
-
-
-
-
-
