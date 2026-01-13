@@ -10,6 +10,12 @@
 
 <img src="https://i.ibb.co/SX2TcCbP/Snipaste-2025-12-05-11-27-30.png" alt="Snipaste-2025-12-05-11-27-30" border="0">
 
+
+* 추가할 주소: 211.252.91.167
+* 포트: 5006
+* NAS ID와 비밀번호 입력 + 항상 로그인 체크
+* 
+----
 ## 탐색기에 NAS 폴더 넣기 -2
 1. <img src="https://i.ibb.co/C5w6GSDV/2026-01-13-13-34-40.png" alt="2026 01 13 13 34 40" border="0">
 2. <img src="https://i.ibb.co/bRWCmBKG/Snipaste-2026-01-13-13-23-20.png" alt="Snipaste 2026 01 13 13 23 20" border="0">
