@@ -5,8 +5,18 @@
 2. 컴퓨터 OS에 맞는 버전을 설치
 3. NAS 연결 방법
 <img src="https://i.ibb.co/ZzXtPYJG/Snipaste-2025-12-05-11-26-30.png" alt="Snipaste-2025-12-05-11-26-30" border="0">
+
 <img src="https://i.ibb.co/JR8xSf6v/Snipaste-2025-12-05-11-26-50.png" alt="Snipaste-2025-12-05-11-26-50" border="0">
+
 <img src="https://i.ibb.co/SX2TcCbP/Snipaste-2025-12-05-11-27-30.png" alt="Snipaste-2025-12-05-11-27-30" border="0">
+
+## 탐색기에 NAS 폴더 넣기 -2
+<img src="https://i.ibb.co/Dfr00XgL/Snipaste-2026-01-13-13-23-05.png" alt="Snipaste 2026 01 13 13 23 05" border="0">
+<img src="https://i.ibb.co/bRWCmBKG/Snipaste-2026-01-13-13-23-20.png" alt="Snipaste 2026 01 13 13 23 20" border="0">
+<img src="https://i.ibb.co/SXjDTtzJ/Snipaste-2026-01-13-13-23-52.png" alt="Snipaste 2026 01 13 13 23 52" border="0">
+
+추가할 주소: https://redpost.myds.me:5006
+
 
 ## 처음 접속하실 때에는 비밀번호를 변경해야 합니다
 - ID는 이름
