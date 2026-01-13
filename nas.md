@@ -15,9 +15,9 @@
 2. <img src="https://i.ibb.co/bRWCmBKG/Snipaste-2026-01-13-13-23-20.png" alt="Snipaste 2026 01 13 13 23 20" border="0">
 3. <img src="https://i.ibb.co/SXjDTtzJ/Snipaste-2026-01-13-13-23-52.png" alt="Snipaste 2026 01 13 13 23 52" border="0">
 
-1. 추가할 주소: https://redpost.myds.me:5006
-2. 로그인할 때 다시 연결, 다른 자격증명을 사용하여 연결 모두 체크
-3. NAS ID와 비밀번호 입력 + 항상 로그인 체크
+* 추가할 주소: https://redpost.myds.me:5006
+* 로그인할 때 다시 연결, 다른 자격증명을 사용하여 연결 모두 체크
+* NAS ID와 비밀번호 입력 + 항상 로그인 체크
 
 ## 처음 접속하실 때에는 비밀번호를 변경해야 합니다
 - ID는 이름
