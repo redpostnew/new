@@ -50,7 +50,7 @@
 
 <img src="https://i.ibb.co/JR8xSf6v/Snipaste-2025-12-05-11-26-50.png" alt="Snipaste-2025-12-05-11-26-50" border="0">
 
-<img src="https://i.ibb.co/SX2TcCbP/Snipaste-2025-12-05-11-27-30.png" alt="Snipaste-2025-12-05-11-27-30" border="0">
+<img src="https://i.ibb.co/ZzYxYpPS/2026-04-16-17-55-40.png" alt="2026 04 16 17 55 40" border="0"></a>
 
 
 * 추가할 주소: 211.252.91.167
